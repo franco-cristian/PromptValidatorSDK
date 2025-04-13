@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar package-lock.json en cualquier ubicación
+**/package-lock.json
+
+# Ignorar package.json en cualquier ubicación (si es necesario)
+**/package.json
