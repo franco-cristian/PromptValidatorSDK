@@ -1,0 +1,7 @@
+requests
+openai
+azure-identity
+azure-keyvault-secrets
+azure-ai-contentsafety
+azure-cosmos
+python-dotenv
